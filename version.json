@@ -1,4 +1,5 @@
 {
   "version": 1.17,
+  "model": "SUBSTATION_2L",
   "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/firmware.bin"
 }
