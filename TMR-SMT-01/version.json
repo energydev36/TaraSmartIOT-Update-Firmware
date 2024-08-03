@@ -3,5 +3,5 @@
   "model": "TMR-SMT-01",
   "sn": ["TMR2308AB001", "TMR2308AB002", "ALL"],
   "forceUpdate": true,
-  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/firmware.bin"
+  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/firmware_3824_3.bin"
 }
