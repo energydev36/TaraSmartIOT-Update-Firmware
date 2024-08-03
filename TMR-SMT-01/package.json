@@ -1,7 +1,7 @@
 {
   "version": 1.23,
   "model": "TMR-SMT-01",
-  "sn": ["TMR2308AB002"],
+  "sn": ["TMR2308AB001"],
   "forceUpdate": true,
   "token": "unique-update-token-1222",
   "url": "https://raw.githubusercontent.com/energydev36/TaraSmartIOT-Update-Firmware/main/TMR-SMT-01/firmware_3824_6.bin"
