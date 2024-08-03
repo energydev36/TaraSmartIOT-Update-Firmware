@@ -1,8 +1,8 @@
 {
-  "version": 1.20,
+  "version": 1.21,
   "model": "TMR-SMT-01",
   "sn": ["ALL"],
   "forceUpdate": true,
-  "token": "unique-update-token-1232",
-  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/TMR-SMT-01/firmware_3824_3.bin"
+  "token": "unique-update-token-1231",
+  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/TMR-SMT-01/firmware_3824_4.bin"
 }
