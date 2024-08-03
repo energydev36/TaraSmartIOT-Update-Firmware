@@ -1,8 +1,8 @@
 {
-  "version": 1.101,
+  "version": 1.102,
   "model": "SEN-WTL-01",
   "sn": ["SEN2308AB001"],
   "forceUpdate": true,
-  "token": "unique-update-token-1212",
+  "token": "unique-update-token-1211",
   "url": "https://raw.githubusercontent.com/energydev36/TaraSmartIOT-Update-Firmware/main/SEN-WTL-01/SEN-WTL-01_3824_1.bin"
 }
