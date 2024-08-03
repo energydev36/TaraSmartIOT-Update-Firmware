@@ -1,6 +1,7 @@
 {
-  "version": 1.20,
+  "version": 1.21,
   "model": "TMR-SMT-01",
-  "sn": ["TMR2308AB002"],
-  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/TMR-SMT-01/firmware_3824_2.bin"
+  "sn": ["ALL"],
+  "forceUpdate": true,
+  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/TMR-SMT-01/firmware_3824_3.bin"
 }
