@@ -3,12 +3,6 @@
   "version": 1.24,
   "model": "TMR-SMT-01",
   "sn": ["ALL"],
-<<<<<<< HEAD
   "token": "unique-update-token-2223",
   "url": "https://raw.githubusercontent.com/energydev36/TaraSmartIOT-Update-Firmware/main/TMR-SMT-01/firmware_2485_1.bin"
-=======
-  "forceUpdate": true,
-  "token": "unique-update-token-1224",
-  "url": "https://raw.githubusercontent.com/energydev36/TaraSmartIOT-Update-Firmware/main/TMR-SMT-01/firmware_2484_1.bin"
->>>>>>> ea3d29a84b0d9cf0e453cdb7512f8f9bd8b927bc
 }
