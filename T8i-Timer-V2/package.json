@@ -4,6 +4,6 @@
   "sn": ["ALL"],
   "forceUpdate": true,
   "token": "unique-update-token-1231",
-  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/T8i-Timer-V2/firmware_t8i_v2_2706_2000.bin",
+  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/T8i-Timer-V2/firmware_t8i_v2_2706_2003.bin",
   "description": "T8i Timer V2 Firmware Update"
 }
