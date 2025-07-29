@@ -1,9 +1,9 @@
 {
-  "version": "2.002",
+  "version": "2.001",
   "model": "T8i-Timer-V2",
   "sn": ["ALL"],
   "forceUpdate": true,
   "token": "unique-update-token-1231s",
-  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/T8i-Timer-V2/firmware_t8i_v2_220725_2002(dear_only).bin",
+  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/T8i-Timer-V2/firmware_ti8_v2_290768_2001.bin",
   "description": "T8i Timer V2 Firmware Update"
 }
