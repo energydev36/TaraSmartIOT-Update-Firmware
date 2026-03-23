@@ -7,3 +7,6 @@
   "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/T8i-Timer-V2-T/firmware_t8i_v2_6881001_2004.bin",
   "description": "T8i Timer V2 Firmware Update"
 }
+
+
+{"unique_id":"ece3341c1bf8_reboot","name":"Reboot","command_topic":"tarasmartiot/timer/t8i_ECE3341C1BF8/button/ece3341c1bf8_reboot/set","availability_topic":"tarasmartiot/timer/t8i_ECE3341C1BF8/availability","payload_available":"online","payload_not_available":"offline","qos":1,"device":{"identifiers":["t8i_ECE3341C1BF8"],"model":"T8i-Timer-V2","manufacturer":"Tara Smart IOT","serial_number":"ECE3341C1BF8","sw_version":"2.004","name":"Timer 8Zone (ECE3341C1BF8)"}}
