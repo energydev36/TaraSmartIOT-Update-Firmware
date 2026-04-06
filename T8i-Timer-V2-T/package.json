@@ -4,6 +4,8 @@
   "sn": ["ALL"],
   "forceUpdate": true,
   "token": "unique-update-tn-1231s",
-  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/T8i-Timer-V3/firmware_t8i_v3_690405_3002.bin",
+  "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/Laila-GreenHouse2/firmware_laila_greenhose2_1002.bin",
   "description": "T8i Timer V2 Firmware Update"
 }
+
+// "url": "https://raw.githubusercontent.com/energydev36/iotupdate/main/T8i-Timer-V3/firmware_t8i_v3_690405_3002.bin",
